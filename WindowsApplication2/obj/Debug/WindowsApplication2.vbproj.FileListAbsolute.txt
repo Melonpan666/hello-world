@@ -1,1 +1,11 @@
 F:\Users\Melonpan666\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+F:\Users\Melonpan666\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+F:\Users\Melonpan666\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+F:\Users\Melonpan666\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+F:\Users\Melonpan666\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+F:\Users\Melonpan666\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication1.Form1.resources
+F:\Users\Melonpan666\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication1.Resources.resources
+F:\Users\Melonpan666\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+F:\Users\Melonpan666\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+F:\Users\Melonpan666\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+F:\Users\Melonpan666\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
